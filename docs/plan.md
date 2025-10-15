@@ -12,5 +12,12 @@ Kế hoạch học tập 1 tuần:
 - Tìm hiểu thêm về bảo mật mạng.
 - Chuẩn bị cho bài kiểm tra cuối kỳ.
 
+<<<<<<< Updated upstream
 - Ôn tập Tiếng Anh B1.
 - Nghiên cứu thêm về Docker.
+=======
+- Hoàn thành báo cáo tiến độ hàng tuần.
+- Tham gia buổi học nhóm Git.
+- Luyện giải bài tập Python nâng cao.
+- Chuẩn bị slide thuyết trình môn MIS.
+>>>>>>> Stashed changes
