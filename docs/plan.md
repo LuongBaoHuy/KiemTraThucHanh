@@ -11,3 +11,6 @@ Kế hoạch học tập 1 tuần:
 - Viết báo cáo tiến độ học tập.
 - Tìm hiểu thêm về bảo mật mạng.
 - Chuẩn bị cho bài kiểm tra cuối kỳ.
+
+- Ôn tập Tiếng Anh B1.
+- Nghiên cứu thêm về Docker.
