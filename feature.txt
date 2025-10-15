@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý công việc cá nhân.
+- Người dùng có thể thêm công việc.
+- Người dùng có thể đánh dấu hoàn thành.
+- Người dùng có thể xóa công việc.
+- Giao diện đơn giản, dễ sử dụng.
+- Tích hợp với cơ sở dữ liệu SQLite.
