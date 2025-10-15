@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản dễ dàng.
 - Có thể quay lại lịch sử code bất kỳ lúc nào.
 - Hỗ trợ làm việc nhóm hiệu quả.
-- Ban đầu học Git hơi khó nhưng rất hữu ích.
-- GitHub giúp chia sẻ project dễ dàng hơn.
